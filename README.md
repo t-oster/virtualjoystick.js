@@ -18,7 +18,7 @@ You can install it manually. Just do
 ```html
 <script src='virtualjoystick.js'></script>
 ```
-
+ 
 You can install with [bower](http://bower.io/).
 
 ```bash
